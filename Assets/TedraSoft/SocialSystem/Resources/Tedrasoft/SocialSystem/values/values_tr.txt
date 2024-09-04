@@ -1,0 +1,2 @@
+tedraRate_title=Bize 5* yorum verebilir misiniz? 
+tedraRate_cancel=Geri

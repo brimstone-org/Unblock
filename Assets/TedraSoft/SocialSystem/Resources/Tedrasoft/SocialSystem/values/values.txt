@@ -1,0 +1,2 @@
+tedraRate_title=Would you give us a 5* review? 
+tedraRate_cancel=Back

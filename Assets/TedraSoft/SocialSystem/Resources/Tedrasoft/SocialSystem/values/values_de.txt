@@ -1,0 +1,2 @@
+tedraRate_title=Können Sie uns 5 * ? 
+tedraRate_cancel=Zurück

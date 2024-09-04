@@ -1,0 +1,2 @@
+tedraRate_title=별 5개 리뷰를 등록해주시겠어요?
+tedraRate_cancel=뒤로

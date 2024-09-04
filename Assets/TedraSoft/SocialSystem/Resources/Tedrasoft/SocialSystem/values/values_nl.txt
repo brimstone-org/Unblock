@@ -1,0 +1,2 @@
+tedraRate_title=Kun je ons een 5* beoordeling geven? 
+tedraRate_cancel=Terug

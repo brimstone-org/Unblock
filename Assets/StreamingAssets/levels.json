@@ -1,0 +1,2817 @@
+{
+	"LevelsAmountPerDifficulty": 50,
+	"Easy": {
+		"Difficulty": "easy",
+		"LevelsList": [{
+			"LevelString": "403222021",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "400220231242251035113",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "404223253032112",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "233343341403122030323",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403323233310121120140351353",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "440330122210033351",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "442230023353035313",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "442223021332201100",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "004440330221210103253142",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "145431251122023212203320",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "231134030311223104442",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "440230343112003035200",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "413343100321130252141303145332",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "343442322103324331233120141",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "413114144132251321202005233",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "420021032013210344303",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "411241201110112145140251144124125331",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "354434223000340350135213111330",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "231412201114110344353341350130",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "441230323112000301103253243",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "433140011223352354141200132134112",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "445334223031142122314144143100",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 5.0
+			}
+		},
+		{
+			"LevelString": "443221332134000114304330125101142141",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145402331342304030034101321351103",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "441230220200210105125142140103114",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "442230322114035111353304340350",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "423210140035120200121122104242",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423243253141124201311030",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "442230320034100140113125145133",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "444131251000314022301333",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "440330232101220113035141142143144",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "432221251330340333343354310202312115",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "423211142203000141134324354330",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "411230323035112143115140144100351103",
+			"MovesCount": 10,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "402111242351014010304332353145",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "441230113143301303110112124135",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "434253332003324121300112130",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "145403233321301000114142353130",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443231340350120125124354304300314310102",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "442230123220340350143144145100101302312",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "402252242310313333322304300331350145",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "403231241253200140024005135",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "015014304211000330122423242141",
+			"MovesCount": 17,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433353323303330340110122142212001134",
+			"MovesCount": 16,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443211322302110341332354",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "442332312141121124105100130143145301303",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "423211250242130122114115334320100",
+			"MovesCount": 19,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145433302312322310120140141142353334304114",
+			"MovesCount": 19,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "300302230013104124105141142111112440",
+			"MovesCount": 8,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "440230141142320310003004",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		}]
+	},
+	"Medium": {
+		"Difficulty": "medium",
+		"LevelsList": [{
+			"LevelString": "403005002323233344340350300110",
+			"MovesCount": 9,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443221332025142030131144304302312",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "442324321034035113120100332",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "412241333331120310135203352324314",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "354344334332322301100111131120142114005403",
+			"MovesCount": 30,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423301303342021110130350211105324",
+			"MovesCount": 11,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "421250122310020341312123343253135114",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "411231344253103342100112124105",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "241233101122113145351030100444203",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "414312125000011344353342203301322333",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "440330142014200311122303005113133",
+			"MovesCount": 10,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "434253142324135140120331313111141",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "444231342101321141110130323025304314",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "400231221240250034004102143101015145",
+			"MovesCount": 8,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "135442121311301000332141105144124103",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "145402242252140141331321310314324334304300123",
+			"MovesCount": 9,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "135411230240350352322312302300115",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "145413233122000011242353114115304301",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433121222025203100132253250311",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145032353333324321350000201413",
+			"MovesCount": 9,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443314311323350240120100202354135",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145125121102222020034352350341300303313433",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443303313324034322351131030110111",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145423352242334313303002031320300",
+			"MovesCount": 17,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413104124115135343332330320201100140141",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433134132223304302001330140035",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423243142141331312104111110130301",
+			"MovesCount": 16,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443333324322354350340303301121120032",
+			"MovesCount": 16,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "304403102323015344354352141121110300",
+			"MovesCount": 18,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433142350331322324302300020104",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "125433124105111100140330032253344212303301",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413203314125145134332342321100101120",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145125122251021030342311314304403",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145144142125302300350333331020443",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403324322210200121120232035142350",
+			"MovesCount": 18,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413202005311321000243354352031",
+			"MovesCount": 19,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403322332342352344354314125124320200",
+			"MovesCount": 16,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413303105125332252002101131030320",
+			"MovesCount": 26,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403223334145251341331102111010300",
+			"MovesCount": 30,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433252145125323213304302112100130320331141",
+			"MovesCount": 28,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "115433334313323304302352350012101100",
+			"MovesCount": 2,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "015304323232144142121120100311350340403",
+			"MovesCount": 30,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304115334243253322032141121100311",
+			"MovesCount": 26,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403323333331304115135144112120001251",
+			"MovesCount": 28,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423324034145342330140122312202105",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145125124132141100213304302322320330252433",
+			"MovesCount": 26,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403141243014015304354332322330000",
+			"MovesCount": 28,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413005031242354332303301320100124",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413105004344342253122311320130131",
+			"MovesCount": 27,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403223250021144334342122120100311301",
+			"MovesCount": 26,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		}]
+	},
+	"Hard": {
+		"Difficulty": "hard",
+		"LevelsList": [{
+			"LevelString": "423314304024353145312220331030101",
+			"MovesCount": 22,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304025002320331333141242",
+			"MovesCount": 35,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403105111110130350300354324322032233",
+			"MovesCount": 35,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403115334332300350121010222142144",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443035341351330312314203140122111",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433334144115100120131132352350321323304302",
+			"MovesCount": 40,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403014015304354352332322330102141",
+			"MovesCount": 34,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413324333311350122121120100144035240",
+			"MovesCount": 37,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413203314220102233145351131130",
+			"MovesCount": 37,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403125145314323112111132353351340330301000",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403323334332353351300102145241011",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304015323134354342332330002100141",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403004015243333322301330132111",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304301320342352354015232031100112",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403035002130141252100320331333342304",
+			"MovesCount": 43,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403014015304344354352332322102330141140",
+			"MovesCount": 37,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403323233144342251340300102011",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413302324035333104112132101121100251",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433253142141331030320322102005",
+			"MovesCount": 9,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423124304102321110131130352354242025213",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403322332352354344125304014102330141",
+			"MovesCount": 35,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304102322332344354014352330141",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403354344233005352132112301100320031",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403233323342251340300010011102144",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403105004233344342351320301100122131",
+			"MovesCount": 38,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413334344332321350142131000202005",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403323332342352354304330141134015112",
+			"MovesCount": 35,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413114112100303301320334332131242145251",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403105125110111130300331333142253222",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403104122141342352354311301320100323005",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403314333331300111142125222253010",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423242354352025213203131102130110321",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304320002100130331333035141252",
+			"MovesCount": 41,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403015014000301322111132243354352304330",
+			"MovesCount": 37,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413304314302332354220142030135024101",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304323115135142100001330340332354134",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403323334332342251011300340120102144145",
+			"MovesCount": 37,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413105104135324201012330242252141",
+			"MovesCount": 34,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423324035343353142350230000101302304",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304115114135354333331110130141142221",
+			"MovesCount": 39,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403015104333344342253331141320112100301",
+			"MovesCount": 39,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403005334323301100011112243353350142",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403324322102300110330132343035252141",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "203213125124145242331321110130141102423",
+			"MovesCount": 33,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403223334145252132112111100330301",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403004334145343252132322111330301",
+			"MovesCount": 34,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423342252304213124125145102321331110130141",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413203241000035324333144352350121311",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "413303334332321110131130242251005102",
+			"MovesCount": 32,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304115233222145132110340250",
+			"MovesCount": 31,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		}]
+	},
+	"Bonus": {
+		"Difficulty": "bonus",
+		"LevelsList": [
+		{
+			"LevelString": "443231120034323135211",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "442230110123303313243",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "412230302123014344354",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "432221253212300330302005344",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "354435223242122312101110",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 5.0
+			}
+		},
+		{
+			"LevelString": "413231120124203321135",
+			"MovesCount": 3,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "422241140144324330123111",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "442331221004130110125",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "402221010114344015252",
+			"MovesCount": 9,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "431220003342332353030351",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "412231125000201113114304351143140",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "442222111010353340350134231145",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "145422240352111010300312023144",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "444333241030121122035203100",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "404122141020223102300310354352",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "443233132011300102030322114",
+			"MovesCount": 13,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145413231120203324144352111350241",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "433222021211250344125104300110",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "412230123242100301313140",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "432322114005111000253250130131135302",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "412202230343352124005110101341",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "432221000114303301251140105125",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "441220130032123313105354300",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "411201230133312105144135350",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "441230123300210124035142140115304",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "414203334020011344354143102100350",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "434324113253031203140122310135",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "413114132144233251202005321000340",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "403304324333035122121120100311301240",
+			"MovesCount": 21,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "443354344324313350320130100105233",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "423115304344354331320302342352340350310313112",
+			"MovesCount": 4,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "440332111112200334005354344103323",
+			"MovesCount": 8,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "412201331000143341250145314125",
+			"MovesCount": 8,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "442231143200003130141111114115144145",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "412223314331351341353133140301120135",
+			"MovesCount": 8,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "441220253230300140124125310105142",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "401331241253212320024005",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "441104200210123124005331",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "411240350300313302230110034035323",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 1.0
+			}
+		},
+		{
+			"LevelString": "442331120033321212125024105140",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "402222253141330304015134342313",
+			"MovesCount": 12,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "423213241331321304353145125024102100140",
+			"MovesCount": 15,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "414243354111122300010123334303352",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "434223105354135342332030141352121310301",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "404223334243120121122140100354105103",
+			"MovesCount": 7,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "442220143114113144125145131130350100101232",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "402220123145230144342352350340103101100",
+			"MovesCount": 8,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 2.0
+			}
+		},
+		{
+			"LevelString": "433223101002250100021120134135105104",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "145403104105134251112101120132131140223",
+			"MovesCount": 6,
+			"WinPosition": {
+				"x": 5.0,
+				"y": 3.0
+			}
+		},
+		{
+			"LevelString": "434251324123021213030135354112",
+			"MovesCount": 5,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 4.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		},
+		{
+			"LevelString": "",
+			"MovesCount": 0,
+			"WinPosition": {
+				"x": 0.0,
+				"y": 0.0
+			}
+		}]
+	}
+}
+	

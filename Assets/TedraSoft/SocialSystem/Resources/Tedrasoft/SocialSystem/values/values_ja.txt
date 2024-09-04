@@ -1,0 +1,2 @@
+tedraRate_title=私たちに5星のレビューを与えることができますか？ 
+tedraRate_cancel=戻る

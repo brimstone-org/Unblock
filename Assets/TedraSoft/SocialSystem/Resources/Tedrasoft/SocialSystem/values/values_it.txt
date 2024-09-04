@@ -1,0 +1,2 @@
+tedraRate_title=Puoi darci una recensione 5 * ?
+tedraRate_cancel=Ritorna

@@ -1,0 +1,2 @@
+tedraRate_title=Você pode nos dar uma revisão 5 *? 
+tedraRate_cancel=Voltar

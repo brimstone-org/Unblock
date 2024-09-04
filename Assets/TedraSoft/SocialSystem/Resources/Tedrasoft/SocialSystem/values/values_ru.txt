@@ -1,0 +1,2 @@
+tedraRate_title=Оцените нас в пять звёзд? 
+tedraRate_cancel=Назад

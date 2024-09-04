@@ -1,0 +1,11 @@
+title=Personalized Ad Experience
+content0=In order to show you relevant ads in the application, the partner ads networks may collect and process personal data such as device identifiers, location data, other demographic and interest data.
+content1=Learn more:
+content2=By agreeing, you confirm that you would like a personalized ad experience.
+button_agree=Yes, I agree.
+button_disagree=No, Thank you.
+button_disagree_extra=You will still see ads, but they may not be relevant for you.
+
+#not added in popup yet
+confirm_agree=Great. We hope you enjoy our personalized ad experience.
+confirm_disagree=We won't collect your data through this app for personalized  advertising.

@@ -1,0 +1,47 @@
+{
+	"project_info": {
+		"project_number": "970436486978",
+		"firebase_url": "https://unblock-53264514.firebaseio.com",
+		"project_id": "unblock-53264514",
+		"storage_bucket": "unblock-53264514.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:970436486978:android:873b4e5b7f746ecb",
+				"android_client_info": {
+					"package_name": "com.tedrasoft.unblock"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "970436486978-i1habvl7bmpll90jkbaj2jrj3upte6or.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCjntWWXdBSbB5bscT4uH5wC_4UG6wEguU"
+				}
+			],
+			"services": {
+				"analytics_service": {
+					"status": 1
+				},
+				"appinvite_service": {
+					"status": 2,
+					"other_platform_oauth_client": [
+						{
+							"client_id": "970436486978-i1habvl7bmpll90jkbaj2jrj3upte6or.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				},
+				"ads_service": {
+					"status": 2
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}

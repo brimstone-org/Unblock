@@ -1,0 +1,2 @@
+tedraRate_title=Pouvez-vous nous donner 5 *?
+tedraRate_cancel=Retour

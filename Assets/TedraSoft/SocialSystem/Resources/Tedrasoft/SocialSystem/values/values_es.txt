@@ -1,0 +1,2 @@
+tedraRate_title=¿Puede darnos una calificación de 5 *?
+tedraRate_cancel=Ir Atras
